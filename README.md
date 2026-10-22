@@ -36,8 +36,8 @@ Alur kerja aplikasi ini dibagi menjadi beberapa tahapan utama, mulai dari inisia
 ---
 
 ## 🛠️ Tech Stack
-* **Framework:** Flutter[cite: 5]
-* **State Management:** Flutter Riverpod (`flutter_riverpod`)[cite: 5]
-* **Local Database:** Hive (`hive`, `hive_flutter`)[cite: 5]
-* **OCR & Image:** Google ML Kit Text Recognition & Image Picker[cite: 5]
-* **Export/Print:** PDF & Printing[cite: 5]
+* **Framework:** Flutter
+* **State Management:** Flutter Riverpod (`flutter_riverpod`)
+* **Local Database:** Hive (`hive`, `hive_flutter`)
+* **OCR & Image:** Google ML Kit Text Recognition & Image Picker
+* **Export/Print:** PDF & Printing

@@ -22,7 +22,7 @@ class TransactionNotifier extends StateNotifier<List<TransactionModel>> {
       loadedList.sort((a, b) => b.date.compareTo(a.date));
       state = loadedList;
     } catch (e) {
-      print('Error loading Hive data: $e');
+      print('Error loading transactions: $e');
     }
   }
 
